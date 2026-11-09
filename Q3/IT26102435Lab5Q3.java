@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ITxxxxxxxxLab5Q3 {
+public class IT26102435Lab5Q3 {
     public static void main(String[] args) {
         final double ROOM_CHARGE_PER_DAY = 48000.00;
         final int MIN_DATE = 1;
